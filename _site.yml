@@ -16,4 +16,5 @@ output:
     toc_float: yes
     toc_depth: 3
     include:
+      in_header: analytics.html
     css: styles.css
