@@ -20,9 +20,9 @@ advdate <- function(obj, adv) {
 }
 ```
 
-Demián Zayat
+Profesor: Demián Zayat
 dzayat@derecho.uba.ar<br>
-Ayudante Tamara London
+Ayudante de 2da:  Tamara London
 tamaralondon@derecho.uba.ar
 
 ## Programa
