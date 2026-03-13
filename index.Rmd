@@ -10,7 +10,7 @@ martes <- as.Date ("2026-03-10")
 viernes <- as.Date("2026-03-13")
 
 advdate <- function(obj, adv) {
-  Sys.setlocale("LC_TIME", "es_ES")
+  Sys.setlocale("LC_TIME", "es_ES.UTF-8")
   tmon <- obj + 7*(adv-1)
   tmon <- format(tmon, format="%d/%m")
   zadv <- sprintf("%02d", adv)
@@ -66,8 +66,9 @@ Presentación de los objetivos y metodología del curso. Introducción al derech
 
 -   Reglas de Brasilia sobre Acceso a la Justicia de las Personas con vulnerabilidad con la actualización de 2018, [en este link](https://brasilia100r.com/wp-content/uploads/2020/07/Reglas-de-Brasilia-actualizaci%C3%B3n-2018.pdf)
 
-- Borrador de Convenio Iberoamericano sobre Acceso a la Justicia [aca](https://drive.google.com/file/d/1ZvhBoVmS245Mt4_mxBN_GJOdlh1jDEL5/view?usp=sharing)
+<!-- - Borrador de Convenio Iberoamericano sobre Acceso a la Justicia [aca](https://drive.google.com/file/d/1ZvhBoVmS245Mt4_mxBN_GJOdlh1jDEL5/view?usp=sharing) -->
 
+- Bohmer, "Igualadores Retóricos", [aca](https://drive.google.com/file/d/0B50ljTnhr79kMWQ2OTgzYzMtNGNiNS00YjQxLThjYjYtYzg2YWYyNzc0MTlh/view?usp=sharing&resourcekey=0-QzTl1yGSNgnHMOI_ICHjEg)
 
 
 ### `r advdate(viernes, 2)` Unidad 2. Concepto clásico y estructural
@@ -77,7 +78,7 @@ Patrocinio letrado. Requerir un patrocinio letrado puede ser difícil en muchos 
 
 -   Gallanter, "Por qué los poseedores salen adelante?, [link](https://drive.google.com/file/d/1Fj3STLmXxHrJglgGgs5JUtDjXy0DSJ3o/view?usp=sharing)
 
-- Bohmer, "Igualadores Retóricos", [aca](https://drive.google.com/file/d/0B50ljTnhr79kMWQ2OTgzYzMtNGNiNS00YjQxLThjYjYtYzg2YWYyNzc0MTlh/view?usp=sharing&resourcekey=0-QzTl1yGSNgnHMOI_ICHjEg)
+
 
 
 ### [`r advdate(martes, 3)`  Feriado 24 de marzo. Día de la Memoria, por la verdad y la justicia]{.bordo}
