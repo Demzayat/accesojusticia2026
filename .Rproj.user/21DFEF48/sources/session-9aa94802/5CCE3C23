@@ -3,7 +3,7 @@
     "path": "~/Documentos/ESPEJO/FACULTAD/UBA/Acceso a la Justicia/accesojusticia2026/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "1684907330",
+    "hash": "1254647138",
     "contents": "",
     "dirty": false,
     "created": 1773177060244.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "166,119",
-        "scrollLine": "157"
+        "cursorPosition": "80,0",
+        "scrollLine": "61"
     },
     "folds": "",
-    "lastKnownWriteTime": 1773318849,
+    "lastKnownWriteTime": 1773774184,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1773318849685,
+    "last_content_update": 1773774184585,
     "read_only": false,
     "read_only_alternatives": []
 }
