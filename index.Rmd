@@ -134,7 +134,7 @@ b.  Usurpaciones y derecho de defensa
 
 <!-- - Protocolo de Salud Mental, [aca](https://drive.google.com/file/d/1_1DCvbeTGT8gLp9pAMsCejJeJPs-2mj2/view?usp=sharing) -->
 
-<!-- - Ley 6020: "Art. 335 CPP CABA: En los casos de usurpación de inmuebles, en cualquier estado del proceso, el/la Fiscal o el/la Juez/a, a pedido del/la damnificado/a y sin correr traslado a la defensa, puede disponer provisionalmente el inmediato reintegro de la posesión o tenencia del inmueble, cuando el derecho invocado fuere verosímil y puede fijar una caución si lo considerare necesario. A tales fines, el/la Juez/a escucha en entrevista personal a la Fiscalía. La decisión que disponga la resolución se ejecuta y es apelable sin efecto suspensivo. (Ley 6020, del 04/10/2018)" -->
+- Ley 6020: "_Art. 335 CPP CABA: En los casos de usurpación de inmuebles, en cualquier estado del proceso, el/la Fiscal o el/la Juez/a, a pedido del/la damnificado/a y sin correr traslado a la defensa, puede disponer provisionalmente el inmediato reintegro de la posesión o tenencia del inmueble, cuando el derecho invocado fuere verosímil y puede fijar una caución si lo considerare necesario. A tales fines, el/la Juez/a escucha en entrevista personal a la Fiscalía. La decisión que disponga la resolución se ejecuta y es apelable sin efecto suspensivo_. (Ley 6020, del 04/10/2018)"
 
 ### `r advdate(viernes, 5)`. Unidad 3. La práctica- Discapacidad
 
