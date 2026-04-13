@@ -148,7 +148,11 @@ c.  Personas con discapacidad
 
 - CSJN, Ejecuciones contra el Estado [aca](https://drive.google.com/file/d/1X2oK8aGhqhadJ7YkQCHktaT49Ypk5udZ/view?usp=share_link)
 
+
 ### `r advdate(martes, 6)`. Unidad 3. La práctica - Salud Mental - Niñeces
+
+[Vamos a terminar de ver Asociación Francesa / Instituto Médico Antártida + Ejecuciones contra el estado y comenzaremos con RMJ. Si nos da tiempo, algo de niñeces...]{.red}
+
 
 d. Salud mental
 
@@ -160,7 +164,7 @@ e. Niñeces
   
 
 
-<!-- ### `r advdate(viernes, 6)`. Unidad 3. La práctica - LGBTIQ -->
+### `r advdate(viernes, 6)`. Unidad 3. La práctica - LGBTIQ
 
 
 d.  LGBT Trans
@@ -261,4 +265,12 @@ otros ejemplos
 ### `r advdate(viernes, 9)`. Examen final presencial
 
 <!-- - caso de Violencia obstetrica de la CEDAW, [aca](https://drive.google.com/file/d/1YqDi5n11KCJaBfwa4WpQvsGFt-UqEv-a/view?usp=sharing) -->
+
+
+
+---
+
+<footer>
+[📧 Suscribirse a la lista de difusión del curso](https://groups.google.com/g/accesojusticia/members){.btn .btn-default}
+</footer>
 
