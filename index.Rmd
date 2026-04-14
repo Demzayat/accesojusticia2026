@@ -156,20 +156,20 @@ d. Salud mental
 
 - CSJN, "R. M.J s/Insania", [aca](https://drive.google.com/file/d/1c29zw3cQDmwNGuO-GDR15KUq7Xc-UZJb/view?usp=sharing)
 
-e. Niñeces
-
-  - MPT CABA, [Violencia contra Niños, Niñas y Adolescentes](https://drive.google.com/file/d/1lc3H955K8Wx1-7mdtDAJX--CBBcqXfuX/view?usp=sharing) (solo Capítulos 1 y 2)
-  
 
 
 ### `r advdate(viernes, 6)`. Unidad 3. La práctica - LGBTIQ
+
+e. Niñeces
+
+  - MPT CABA, [Violencia contra Niños, Niñas y Adolescentes](https://drive.google.com/file/d/1lc3H955K8Wx1-7mdtDAJX--CBBcqXfuX/view?usp=sharing) (solo **Capítulos 1 y 2**)
 
 
 d.  LGBT Trans
 
 -   Informe sombra CEDAW 2026, [aca](https://drive.google.com/file/d/1-MXugF9SyQNYE-aD3kk4VbEC-W0ZqdvX/view?usp=sharing)
 
--   Violencia institucional contra personas trans, [ponencia](https://drive.google.com/file/d/1NWDuVTHVpSSWbHTuvP6WPAy6waXvDyXo/view)
+<!-- -   Violencia institucional contra personas trans, [ponencia](https://drive.google.com/file/d/1NWDuVTHVpSSWbHTuvP6WPAy6waXvDyXo/view) -->
 
 - Caso Corte IDH, Vicky Hernandez c/ Honduras [sentencia](https://www.corteidh.or.cr/docs/casos/articulos/seriec_422_esp.pdf) y [resumen](https://www.corteidh.or.cr/docs/casos/articulos/resumen_422_esp.pdf) y [video](https://www.youtube.com/watch?v=5AXht8vR6l8) a partir del minuto 40.
 
@@ -177,7 +177,7 @@ d.  LGBT Trans
 
 <iframe src="https://drive.google.com/file/d/10sNUdx9RvOP_lPg7TqSARLt-t0268FTV/preview" width="560" height="320" allow="autoplay"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FI_aw0aFbeo?si=VVXl8e0I0X8_X4m5&amp;controls=0&amp;start=81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/FI_aw0aFbeo?si=VVXl8e0I0X8_X4m5&amp;controls=0&amp;start=81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 
 ### `r advdate(martes, 7)`. Unidad 3. La práctica
