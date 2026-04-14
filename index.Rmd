@@ -151,7 +151,9 @@ c.  Personas con discapacidad
 
 ### `r advdate(martes, 6)`. Unidad 3. La práctica - Salud Mental - Niñeces
 
+
 [Vamos a terminar de ver Asociación Francesa / Instituto Médico Antártida + Ejecuciones contra el estado y comenzaremos con RMJ. Si nos da tiempo, algo de niñeces...]{.red}
+
 
 
 d. Salud mental
