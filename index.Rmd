@@ -177,7 +177,7 @@ d.  LGBT Trans
 
 <iframe src="https://drive.google.com/file/d/10sNUdx9RvOP_lPg7TqSARLt-t0268FTV/preview" width="560" height="320" allow="autoplay"></iframe>
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/FI_aw0aFbeo?si=VVXl8e0I0X8_X4m5&amp;controls=0&amp;start=81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FI_aw0aFbeo?si=VVXl8e0I0X8_X4m5&amp;controls=0&amp;start=81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### `r advdate(martes, 7)`. Unidad 3. La práctica
