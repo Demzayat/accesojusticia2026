@@ -177,7 +177,7 @@ d.  LGBT Trans
 
 
 ### `r advdate(martes, 7)`. Unidad 3. La práctica
-[El martes terminamos con LGBTTIQ:  el fallo de Vicky Hernandez, vemos el caso de Luz Aime, y el texto de María Piqué de la garantía de imparcialidad,  la recusación de Luz Aime y el alegato de cierre]{.red}
+
 
 - Caso Corte IDH, Vicky Hernandez c/ Honduras [sentencia](https://www.corteidh.or.cr/docs/casos/articulos/seriec_422_esp.pdf) y [resumen](https://www.corteidh.or.cr/docs/casos/articulos/resumen_422_esp.pdf) y [video](https://www.youtube.com/watch?v=5AXht8vR6l8) a partir del minuto 40.
 
@@ -214,6 +214,9 @@ e. Mujeres (cont)
 
 - CEDAW, comunicacion 88/2015 - Sra X c. Timor Lester [aca](https://drive.google.com/file/d/1eyLvEJwr0kHy8xZMDpxbthoBAkPDBps0/view?usp=sharing)
 
+  [(Esta es la guía de litigio en casos de legítima defensa que le comenté a algunes el otro día: [Guia](https://www2.ministeriodelasmujeres.gba.gob.ar/comunicacion/archivos/uploads/6925efbb1b91a9.78294898_Gu__a_para_el_litigio_en_casos_de_mujeres_y_LGBTI_.pdf))]{.red}
+  
+  
 Dejo por aca el video de [Rita Segato](https://youtu.be/prUqWHKnUd4)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/prUqWHKnUd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
