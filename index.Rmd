@@ -6,8 +6,8 @@ output: pdf_document
 
 ```{r, include=FALSE}
 library(readr)
-martes <- as.Date ("2026-03-10")
-viernes <- as.Date("2026-03-13")
+martes <- as.Date ("2026-08-11")
+viernes <- as.Date("2026-08-14")
 
 advdate <- function(obj, adv) {
   Sys.setlocale("LC_TIME", "es_ES.UTF-8")
@@ -80,10 +80,7 @@ Patrocinio letrado. Requerir un patrocinio letrado puede ser difícil en muchos 
 - Bohmer, "Igualadores Retóricos", [aca](https://drive.google.com/file/d/0B50ljTnhr79kMWQ2OTgzYzMtNGNiNS00YjQxLThjYjYtYzg2YWYyNzc0MTlh/view?usp=sharing&resourcekey=0-QzTl1yGSNgnHMOI_ICHjEg)
 
 
-
-### [`r advdate(martes, 3)`  Feriado 24 de marzo. Día de la Memoria, por la verdad y la justicia]{.bordo}
-
-### `r advdate(viernes, 3)`. Unidad 3. La Agenda estructural - Víctimas
+### `r advdate(martes, 3)`. Unidad 3. La Agenda estructural - Víctimas
 
 
 -   CELS, "El acceso a la justicia como una cuestión de derechos humanos", en Informe Anual 2016, [acá](https://drive.google.com/file/d/1qH6DsnHctmesy6nje2f5NgCyowQ0PkyM/view?usp=sharing) El acceso a la justicia como una cuestión de derechos humanos
@@ -96,6 +93,8 @@ Patrocinio letrado. Requerir un patrocinio letrado puede ser difícil en muchos 
 
 <iframe src="https://drive.google.com/file/d/1ARawcLLXQ_35LuElRaTyZGEHzDAWGr3t/preview" width="560" height="315" allow="autoplay"></iframe>
 
+
+### `r advdate(viernes, 3)`. No hay clases. 
 
 ### `r advdate(martes, 4)`. Unidad 3. La práctica - Migrantes
 
@@ -123,10 +122,7 @@ a.  Migrantes Expulsiones. Caso Vanessa Gomez
 
 
 
-### [`r advdate(viernes, 4)`.  Feriado - Viernes Santo]{.bordo}
-
-
-### `r advdate(martes, 5)`. Unidad 3. La práctica - Situación de Calle
+### `r advdate(viernes, 4)`. Unidad 3. La práctica - Situación de Calle
 
 b.  Usurpaciones y derecho de defensa
 
@@ -134,9 +130,9 @@ b.  Usurpaciones y derecho de defensa
 
 <!-- - Protocolo de Salud Mental, [aca](https://drive.google.com/file/d/1_1DCvbeTGT8gLp9pAMsCejJeJPs-2mj2/view?usp=sharing) -->
 
-- Ley 6020: "_Art. 335 CPP CABA: En los casos de usurpación de inmuebles, en cualquier estado del proceso, el/la Fiscal o el/la Juez/a, a pedido del/la damnificado/a y sin correr traslado a la defensa, puede disponer provisionalmente el inmediato reintegro de la posesión o tenencia del inmueble, cuando el derecho invocado fuere verosímil y puede fijar una caución si lo considerare necesario. A tales fines, el/la Juez/a escucha en entrevista personal a la Fiscalía. La decisión que disponga la resolución se ejecuta y es apelable sin efecto suspensivo_. (Ley 6020, del 04/10/2018)"
+<!-- - Ley 6020: "_Art. 335 CPP CABA: En los casos de usurpación de inmuebles, en cualquier estado del proceso, el/la Fiscal o el/la Juez/a, a pedido del/la damnificado/a y sin correr traslado a la defensa, puede disponer provisionalmente el inmediato reintegro de la posesión o tenencia del inmueble, cuando el derecho invocado fuere verosímil y puede fijar una caución si lo considerare necesario. A tales fines, el/la Juez/a escucha en entrevista personal a la Fiscalía. La decisión que disponga la resolución se ejecuta y es apelable sin efecto suspensivo_. (Ley 6020, del 04/10/2018)" -->
 
-### `r advdate(viernes, 5)`. Unidad 3. La práctica- Discapacidad
+### `r advdate(martes, 5)`. Unidad 3. La práctica- Discapacidad
 
 c.  Personas con discapacidad
 
@@ -146,10 +142,11 @@ c.  Personas con discapacidad
 
 - (opcional) CSJN, "Institutos Médicos Antártida s/ quiebra s/ inc. de verificación (R.A.F. y L.R.H. de F)" [aca](https://drive.google.com/file/d/1THtTAOVsLhI8y5mQq5mNTLrt-LFdFc-K/view?usp=sharing)
 
+
+
+### `r advdate(viernes, 5)`. Unidad 3. La práctica - Salud Mental - Niñeces
+
 - CSJN, Ejecuciones contra el Estado [aca](https://drive.google.com/file/d/1X2oK8aGhqhadJ7YkQCHktaT49Ypk5udZ/view?usp=share_link)
-
-
-### `r advdate(martes, 6)`. Unidad 3. La práctica - Salud Mental - Niñeces
 
 
 d. Salud mental
@@ -158,7 +155,7 @@ d. Salud mental
 
 
 
-### `r advdate(viernes, 6)`. Unidad 3. La práctica - LGBTIQ
+### `r advdate(martes, 6)`. Unidad 3. La práctica - LGBTIQ
 
 e. Niñeces
 
@@ -173,10 +170,10 @@ d.  LGBT Trans
 <!-- -   Violencia institucional contra personas trans, [ponencia](https://drive.google.com/file/d/1NWDuVTHVpSSWbHTuvP6WPAy6waXvDyXo/view) -->
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FI_aw0aFbeo?si=VVXl8e0I0X8_X4m5&amp;controls=0&amp;start=81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/FI_aw0aFbeo?si=VVXl8e0I0X8_X4m5&amp;controls=0&amp;start=81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 
-### `r advdate(martes, 7)`. Unidad 3. La práctica
+### `r advdate(viernes, 6)`. Unidad 3. La práctica
 
 
 - Caso Corte IDH, Vicky Hernandez c/ Honduras [sentencia](https://www.corteidh.or.cr/docs/casos/articulos/seriec_422_esp.pdf) y [resumen](https://www.corteidh.or.cr/docs/casos/articulos/resumen_422_esp.pdf) y [video](https://www.youtube.com/watch?v=5AXht8vR6l8) a partir del minuto 40.
@@ -199,7 +196,7 @@ e.  Mujeres
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZKH82JYVLgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-### `r advdate(viernes, 7)`. Unidad 3. La práctica - Mujeres
+### `r advdate(martes, 7)`. Unidad 3. La práctica - Mujeres
 
 e. Mujeres (cont)
 
@@ -214,7 +211,7 @@ e. Mujeres (cont)
 
 - CEDAW, comunicacion 88/2015 - Sra X c. Timor Lester [aca](https://drive.google.com/file/d/1eyLvEJwr0kHy8xZMDpxbthoBAkPDBps0/view?usp=sharing)
 
-  [(Esta es la guía de litigio en casos de legítima defensa que le comenté a algunes el otro día: [Guia](https://www2.ministeriodelasmujeres.gba.gob.ar/comunicacion/archivos/uploads/6925efbb1b91a9.78294898_Gu__a_para_el_litigio_en_casos_de_mujeres_y_LGBTI_.pdf))]{.red}
+  <!-- [(Esta es la guía de litigio en casos de legítima defensa que le comenté a algunes el otro día: [Guia](https://www2.ministeriodelasmujeres.gba.gob.ar/comunicacion/archivos/uploads/6925efbb1b91a9.78294898_Gu__a_para_el_litigio_en_casos_de_mujeres_y_LGBTI_.pdf))]{.red} -->
   
   
 Dejo por aca el video de [Rita Segato](https://youtu.be/prUqWHKnUd4)
@@ -225,14 +222,17 @@ Dejo por aca el video de [Rita Segato](https://youtu.be/prUqWHKnUd4)
  
 
 
+### `r advdate(viernes, 7)`. Unidad 3. La práctica - Afrodescendientes
+
+e. Afrodescendientes y africanos
+
+-   Angela Davis, "Raza, Mujeres y clase", Violación, racismo y el mito del violador negro, [capítulo 11](https://drive.google.com/file/d/1ghSHi12WUBBQlkcBQYiA5--Z_rGMnndc/view?usp=sharing) (o aca el [libro entero](https://drive.google.com/file/d/1dKW89DDQlKGgsKIE74Mi7i6pnmdTvDxn/view?usp=sharing))
+
+
+-   Grupo de Trabajo sobre Afrodescendientes, visita a [Argentina](http://daccess-ods.un.org/access.nsf/Get?Open&DS=A/HRC/42/59/Add.2&Lang=S)
+
+
 ### `r advdate(martes, 8)`. Unidad 3. La práctica - Pueblos originarios
-
-<!-- e. Afrodescendientes y africanos -->
-
-<!-- -   Angela Davis, "Raza, Mujeres y clase", Violación, racismo y el mito del violador negro, [capítulo 11](https://drive.google.com/file/d/1ghSHi12WUBBQlkcBQYiA5--Z_rGMnndc/view?usp=sharing) (o aca el [libro entero](https://drive.google.com/file/d/1dKW89DDQlKGgsKIE74Mi7i6pnmdTvDxn/view?usp=sharing)) -->
-
-
-<!-- -   Grupo de Trabajo sobre Afrodescendientes, visita a [Argentina](http://daccess-ods.un.org/access.nsf/Get?Open&DS=A/HRC/42/59/Add.2&Lang=S) -->
 
 f.  Pueblos originarios
 
@@ -247,10 +247,8 @@ f.  Pueblos originarios
 <iframe src="https://drive.google.com/file/d/1l0JvN4Kem5L9y8e-wwhxmfGpSnU4p72g/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
-### [`r advdate(viernes, 8)`. Feriado - Dia del Trabajador/a]{.bordo} 
 
-
-### `r advdate(martes, 9)` . Unidad 4. Litigio Constitucional
+### `r advdate(viernes, 8)` . Unidad 4. Litigio Constitucional
 
 
 
@@ -269,7 +267,7 @@ otros ejemplos
 - CSJN, [Quisbert Castro](https://drive.google.com/file/d/1kepRDLt6tK6OjOfKD_d4vBkkivAKNYHk/view?usp=sharing)
 
 
-### `r advdate(viernes, 9)`. Examen final presencial
+### `r advdate(martes, 9)`. Examen final presencial
 
 <!-- - caso de Violencia obstetrica de la CEDAW, [aca](https://drive.google.com/file/d/1YqDi5n11KCJaBfwa4WpQvsGFt-UqEv-a/view?usp=sharing) -->
 

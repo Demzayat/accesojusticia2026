@@ -1,5 +1,5 @@
 .navbar-default {
-    background-color:#800020 ;
+    background-color: #a79c3e ;
     border-color: transparent;
     padding: 15px 0 15px 0;
 }
@@ -9,11 +9,11 @@ body{
 }
 
 .list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
-   background-color: #800020 ;
+   background-color: #a79c3e ;
 }
 
 .navbar-default .navbar-nav>.active>a,.navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
-	background-color: #800020; 
+	background-color: #a79c3e; 
 }
 
 h3 {
@@ -48,7 +48,7 @@ h1, h2, h3, h4 {
 h1.title {
   font-size: 2.2rem;
   margin-bottom: 0.2em;
-  border-bottom: 2px solid #800020;
+  border-bottom: 2px solid #a79c3e;
   padding-bottom: 0.3em;
 }
 
@@ -61,10 +61,11 @@ h2 {
 }
 
 h3 {
-  margin-top: 2em;
-  margin-bottom: 0.4em;
+  margin-top: 3em;
+  margin-bottom: 0.5em;
+  padding-top: 1em;
   font-size: 2rem;
-  color: #800020;
+  color: #a79c3e;
   font-style: italic;
 }
 
@@ -74,13 +75,13 @@ h3 {
 
 /* ── Links ── */
 a {
-  color: #800020;
+  color: #766c2c;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
-  color: #5a0015;
+  color: #4e4720;
 }
 
 
@@ -95,6 +96,6 @@ footer {
   border-top: 1px solid #white;
   text-align: center;
   font-size: 0.85rem;
-  background-color:#800020 ;
+  background-color:#a79c3e ;
     border-color: transparent;;
 }
