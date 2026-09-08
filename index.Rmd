@@ -132,7 +132,7 @@ b.  Usurpaciones y derecho de defensa
 
 <!-- - Protocolo de Salud Mental, [aca](https://drive.google.com/file/d/1_1DCvbeTGT8gLp9pAMsCejJeJPs-2mj2/view?usp=sharing) -->
 
-<!-- - Ley 6020: "_Art. 335 CPP CABA: En los casos de usurpación de inmuebles, en cualquier estado del proceso, el/la Fiscal o el/la Juez/a, a pedido del/la damnificado/a y sin correr traslado a la defensa, puede disponer provisionalmente el inmediato reintegro de la posesión o tenencia del inmueble, cuando el derecho invocado fuere verosímil y puede fijar una caución si lo considerare necesario. A tales fines, el/la Juez/a escucha en entrevista personal a la Fiscalía. La decisión que disponga la resolución se ejecuta y es apelable sin efecto suspensivo_. (Ley 6020, del 04/10/2018)" -->
+- Ley 6020: "_Art. 335 CPP CABA: En los casos de usurpación de inmuebles, en cualquier estado del proceso, el/la Fiscal o el/la Juez/a, a pedido del/la damnificado/a y sin correr traslado a la defensa, puede disponer provisionalmente el inmediato reintegro de la posesión o tenencia del inmueble, cuando el derecho invocado fuere verosímil y puede fijar una caución si lo considerare necesario. A tales fines, el/la Juez/a escucha en entrevista personal a la Fiscalía. La decisión que disponga la resolución se ejecuta y es apelable sin efecto suspensivo_. (Ley 6020, del 04/10/2018)"
 
 ### `r advdate(martes, 5)`. Unidad 3. La práctica- Discapacidad
 
@@ -140,67 +140,45 @@ c.  Personas con discapacidad
 
 -   Corte IDH, caso "Furlan y familiares c. Argentina", disponible [aca](https://www.corteidh.or.cr/docs/casos/articulos/seriec_246_esp.pdf), y un resumen oficial [aca](https://www.corteidh.or.cr/docs/casos/articulos/resumen_246_esp.pdf)
 
+
+
+### `r advdate(viernes, 5)`. Unidad 3. La práctica - Salud Mental - Niñeces
+
 - CSJN, "Asociación Francesa de Beneficencia" [aca](https://drive.google.com/file/d/1hVROXu_IFbswD_0UtcBpXPZ0gEbTIiQJ/view?usp=share_link)
 
 - (opcional) CSJN, "Institutos Médicos Antártida s/ quiebra s/ inc. de verificación (R.A.F. y L.R.H. de F)" [aca](https://drive.google.com/file/d/1THtTAOVsLhI8y5mQq5mNTLrt-LFdFc-K/view?usp=sharing)
 
 
-
-### `r advdate(viernes, 5)`. Unidad 3. La práctica - Salud Mental - Niñeces
-
 - CSJN, Ejecuciones contra el Estado [aca](https://drive.google.com/file/d/1X2oK8aGhqhadJ7YkQCHktaT49Ypk5udZ/view?usp=share_link)
 
+- Sala 1 Camara CCF [Ayelen Juve](https://drive.google.com/file/d/1aFR9ckFc2ht1XPg3CwnsxOWkKyU5Na_B/view?usp=sharing)
+
+
+
+### `r advdate(martes, 6)`. Unidad 3. La práctica - LGBTIQ
 
 d. Salud mental
 
 - CSJN, "R. M.J s/Insania", [aca](https://drive.google.com/file/d/1c29zw3cQDmwNGuO-GDR15KUq7Xc-UZJb/view?usp=sharing)
 
 
-
-### `r advdate(martes, 6)`. Unidad 3. La práctica - LGBTIQ
-
 e. Niñeces
 
   - MPT CABA, [Violencia contra Niños, Niñas y Adolescentes](https://drive.google.com/file/d/1lc3H955K8Wx1-7mdtDAJX--CBBcqXfuX/view?usp=sharing) (solo **Capítulos 1 y 2**)
 
-  - Opcional, Fallo Camara Apelaciones Penal Juvenil CABA, 6/4/2025, [aca](https://drive.google.com/file/d/1aXssgEyYJ8y3i_Vc8h3LngVQcR3PCvnb/view?usp=sharing)
-
-d.  LGBT Trans
-
--   Informe sombra CEDAW 2026, [aca](https://drive.google.com/file/d/1-MXugF9SyQNYE-aD3kk4VbEC-W0ZqdvX/view?usp=sharing)
-
-<!-- -   Violencia institucional contra personas trans, [ponencia](https://drive.google.com/file/d/1NWDuVTHVpSSWbHTuvP6WPAy6waXvDyXo/view) -->
+  - Fallo Camara Apelaciones Penal Juvenil CABA, 6/4/2025, [aca](https://drive.google.com/file/d/1aXssgEyYJ8y3i_Vc8h3LngVQcR3PCvnb/view?usp=sharing)
 
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/FI_aw0aFbeo?si=VVXl8e0I0X8_X4m5&amp;controls=0&amp;start=81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 
-### `r advdate(viernes, 6)`. Unidad 3. La práctica
+### `r advdate(viernes, 6)`. Unidad 3. La práctica - Mujeres
 
-
-- Caso Corte IDH, Vicky Hernandez c/ Honduras [sentencia](https://www.corteidh.or.cr/docs/casos/articulos/seriec_422_esp.pdf) y [resumen](https://www.corteidh.or.cr/docs/casos/articulos/resumen_422_esp.pdf) y [video](https://www.youtube.com/watch?v=5AXht8vR6l8) a partir del minuto 40.
-
-- Caso de Luz Aime, [aca](https://www.cosecharoja.org/absolucion-para-luz-le-quieren-dar-perpetua-por-trans-y-pobre/)
-
-<iframe src="https://drive.google.com/file/d/10sNUdx9RvOP_lPg7TqSARLt-t0268FTV/preview" width="560" height="320" allow="autoplay"></iframe>
 
 Unidad 3. La práctica - Mujeres
 
 e.  Mujeres
 
-- Pique y Fernandez Valle, "La garantía de imparcialidad judicial desde la perspectiva de género"  [aca](https://drive.google.com/file/d/1atsNG8fNfxcBruDPtPve0N3AmUf6OA3h/view?usp=sharing)
-
-- Recusación Luz Aime [aca](https://drive.google.com/file/d/1ZWe1xva3x_Y0ttVg2CZ4eliKBj-8bbBy/preview)
-
-
-- Alegato de cierre Ministerio Público Fiscal [Luz Aime](https://youtu.be/ZKH82JYVLgc)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZKH82JYVLgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-### `r advdate(martes, 7)`. Unidad 3. La práctica - Mujeres
-
-e. Mujeres (cont)
+<!-- e. Mujeres (cont) -->
 
 - CSJN, Fallo Rizzi, 16/05/2024 [aca](https://drive.google.com/file/d/1W6zEuSV0_wshgD8vEc_1HMRiGjlUa-qS/view?usp=sharing)
 
@@ -221,7 +199,44 @@ Dejo por aca el video de [Rita Segato](https://youtu.be/prUqWHKnUd4)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/prUqWHKnUd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
- 
+### `r advdate(martes, 7)`. Unidad 3. La práctica - LGBTIQ+
+
+d.  LGBT Trans
+
+
+- Pique y Fernandez Valle, "La garantía de imparcialidad judicial desde la perspectiva de género"  [aca](https://drive.google.com/file/d/1atsNG8fNfxcBruDPtPve0N3AmUf6OA3h/view?usp=sharing)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZKH82JYVLgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+-   Informe sombra CEDAW 2026, [aca](https://drive.google.com/file/d/1-MXugF9SyQNYE-aD3kk4VbEC-W0ZqdvX/view?usp=sharing)
+
+
+
+- Recusación Luz Aime [aca](https://drive.google.com/file/d/1ZWe1xva3x_Y0ttVg2CZ4eliKBj-8bbBy/preview)
+
+
+- Alegato de cierre Ministerio Público Fiscal [Luz Aime](https://youtu.be/ZKH82JYVLgc)
+
+<!-- -   Violencia institucional contra personas trans, [ponencia](https://drive.google.com/file/d/1NWDuVTHVpSSWbHTuvP6WPAy6waXvDyXo/view) -->
+
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/FI_aw0aFbeo?si=VVXl8e0I0X8_X4m5&amp;controls=0&amp;start=81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+
+
+
+
+
+- Caso Corte IDH, Vicky Hernandez c/ Honduras [sentencia](https://www.corteidh.or.cr/docs/casos/articulos/seriec_422_esp.pdf) y [resumen](https://www.corteidh.or.cr/docs/casos/articulos/resumen_422_esp.pdf) y [video](https://www.youtube.com/watch?v=5AXht8vR6l8) a partir del minuto 40.
+
+- Caso de Luz Aime, [aca](https://www.cosecharoja.org/absolucion-para-luz-le-quieren-dar-perpetua-por-trans-y-pobre/)
+
+<iframe src="https://drive.google.com/file/d/10sNUdx9RvOP_lPg7TqSARLt-t0268FTV/preview" width="560" height="320" allow="autoplay"></iframe>
+
+
+
+
 
 
 ### `r advdate(viernes, 7)`. Unidad 3. La práctica - Afrodescendientes
